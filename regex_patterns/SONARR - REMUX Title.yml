@@ -1,5 +1,6 @@
 name: SONARR - REMUX Title
 pattern: \bREMUX\b
 description: ''
-tags: []
+tags:
+- sonarr
 tests: []
