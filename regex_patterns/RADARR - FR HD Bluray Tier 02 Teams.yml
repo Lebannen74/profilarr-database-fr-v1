@@ -1,5 +1,5 @@
 name: RADARR - FR HD Bluray Tier 02 Teams
-pattern: ^(FUJiSAN|HANAMi|HDForever|HeavyWeight|MARBLECAKE|MYSTERiON|NoNE|ONLY|ONLYMOViE|TkHD|UTT)$
+pattern: \b(FUJiSAN|HANAMi|HDForever|HeavyWeight|MARBLECAKE|MYSTERiON|NoNE|ONLY|ONLYMOViE|TkHD|UTT)\b
 description: ''
 tags:
 - radarr

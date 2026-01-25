@@ -1,5 +1,5 @@
 name: SONARR - FR Anime Tier 02 Teams
-pattern: ^(Aoi[ .-]?Project|Elecman|FUJiSAN|GundamGuy|IssouCorp|KAF|Nagutos|OECUF|XSPITFIRE911)$
+pattern: \b(Aoi[ .-]?Project|Elecman|FUJiSAN|GundamGuy|IssouCorp|KAF|Nagutos|OECUF|XSPITFIRE911)\b
 description: ''
 tags:
 - sonarr

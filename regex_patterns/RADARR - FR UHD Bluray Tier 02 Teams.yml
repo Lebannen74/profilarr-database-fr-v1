@@ -1,5 +1,5 @@
 name: RADARR - FR UHD Bluray Tier 02 Teams
-pattern: ^(DUSTiN|FCK|FrIeNdS|QUALiTY)$
+pattern: \b(DUSTiN|FCK|FrIeNdS|QUALiTY)\b
 description: ''
 tags:
 - radarr

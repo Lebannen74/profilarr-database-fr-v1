@@ -1,5 +1,5 @@
 name: SONARR - FR WEB Tier 01 Teams
-pattern: ^(BONBON|FCK|FW|FRATERNiTY|MTDK|NoLo|PATOPESTO|Psaro|TFA|TiNA)$
+pattern: \b(BONBON|FCK|FW|FRATERNiTY|MTDK|NoLo|PATOPESTO|Psaro|TFA|TiNA)\b
 description: ''
 tags:
 - sonarr

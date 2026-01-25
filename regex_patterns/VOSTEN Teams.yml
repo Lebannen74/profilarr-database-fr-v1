@@ -1,5 +1,5 @@
 name: VOSTEN Teams
-pattern: ^(MrHulk|RL|EDITH|PandaMoon|SYNFM)$
+pattern: \b(MrHulk|RL|EDITH|PandaMoon|SYNFM)\b
 description: ''
 tags: []
 tests: []
