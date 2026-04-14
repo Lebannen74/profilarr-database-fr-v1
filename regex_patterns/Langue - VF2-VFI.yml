@@ -1,0 +1,8 @@
+'description': ''
+'name': 'Langue - VF2-VFI'
+'pattern': '\b(VFI|VF2)\b'
+'tags':
+- 'radarr'
+- 'sonarr'
+- 'Language'
+'tests': []

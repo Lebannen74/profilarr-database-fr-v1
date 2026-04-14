@@ -1,0 +1,7 @@
+'description': ''
+'name': 'Teams - SONARR - FR WEB Tier 01 Teams'
+'pattern': '\b(BONBON|FCK|FW|FRATERNiTY|MTDK|NoLo|PATOPESTO|Psaro|TFA|TiNA|SUPPLY)\b'
+'tags':
+- 'sonarr'
+- 'Teams'
+'tests': []

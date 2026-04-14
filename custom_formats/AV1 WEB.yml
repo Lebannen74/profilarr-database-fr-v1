@@ -1,0 +1,23 @@
+'conditions':
+- 'name': 'AV1'
+  'negate': false
+  'pattern': 'Codec - AV1'
+  'required': true
+  'type': 'release_title'
+- 'name': 'Not FR Light HD Teams'
+  'negate': true
+  'pattern': 'Teams - FR HD Light Teams'
+  'required': true
+  'type': 'release_group'
+- 'name': 'WEB-DL'
+  'negate': false
+  'required': true
+  'source': 'web_dl'
+  'type': 'source'
+'description': "format x265 pour les animes / s\xE9ries."
+'name': 'AV1 WEB'
+'tags':
+- 'radarr'
+- 'sonarr'
+- 'Codecs'
+'tests': []

@@ -1,6 +1,6 @@
-name: RADARR - FR UHD Bluray Tier 01 Teams
-pattern: \b(FLOP|FRATERNiTY|FoX|Psaro)\b
-description: ''
-tags:
-- radarr
-tests: []
+'description': ''
+'name': 'RADARR - FR UHD Bluray Tier 01 Teams'
+'pattern': '\b(FLOP|FRATERNiTY|FoX|Psaro)\b'
+'tags':
+- 'radarr'
+'tests': []

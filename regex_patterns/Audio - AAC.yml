@@ -1,0 +1,6 @@
+'description': ''
+'name': 'Audio - AAC'
+'pattern': '\bAAC(\b|\d)'
+'tags':
+- 'Audio'
+'tests': []

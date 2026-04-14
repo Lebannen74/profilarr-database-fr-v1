@@ -1,7 +1,7 @@
-name: VF2-VFI
-pattern: \b(VFI|VF2)\b
-description: ''
-tags:
-- radarr
-- sonarr
-tests: []
+'description': ''
+'name': 'VF2-VFI'
+'pattern': '\b(VFI|VF2)\b'
+'tags':
+- 'radarr'
+- 'sonarr'
+'tests': []

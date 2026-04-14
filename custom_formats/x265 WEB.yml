@@ -1,0 +1,22 @@
+'conditions':
+- 'name': 'x265'
+  'negate': false
+  'pattern': 'Codec - x265'
+  'required': true
+  'type': 'release_title'
+- 'name': 'Not FR Light HD Teams'
+  'negate': true
+  'pattern': 'Teams - FR HD Light Teams'
+  'required': true
+  'type': 'release_group'
+- 'name': 'WEB-DL'
+  'negate': false
+  'required': true
+  'source': 'web_dl'
+  'type': 'source'
+'description': "format x265 pour les animes / s\xE9ries."
+'name': 'x265 WEB'
+'tags':
+- 'sonarr'
+- 'radarr'
+'tests': []

@@ -1,0 +1,8 @@
+'description': ''
+'name': 'Teams - SONARR - FR Anime Tier 03 Teams'
+'pattern': '\b(BLV|D3T3R10R1TY|Galactic|HANAMi|kazui(zui)?|KHAYA|KushEnthusiast|matheousse|Monkey[
+  .-]?D[ .-]?Lulu|NeoSG|RONiN|TheFantastics|TTN)\b'
+'tags':
+- 'sonarr'
+- 'Teams'
+'tests': []

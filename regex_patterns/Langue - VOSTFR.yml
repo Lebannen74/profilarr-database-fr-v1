@@ -1,0 +1,8 @@
+'description': ''
+'name': 'Langue - VOSTFR'
+'pattern': '\b(VOSTFR|SUBFRENCH)\b'
+'tags':
+- 'radarr'
+- 'sonarr'
+- 'Language'
+'tests': []

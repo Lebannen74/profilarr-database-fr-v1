@@ -1,0 +1,6 @@
+'description': ''
+'name': 'Teams - VOSTEN Teams'
+'pattern': '\b(MrHulk|RL|EDITH|PandaMoon|SYNFM)\b'
+'tags':
+- 'Teams'
+'tests': []

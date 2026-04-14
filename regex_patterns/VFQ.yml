@@ -1,7 +1,7 @@
-name: VFQ
-pattern: \b(VQ|VFQ)\b
-description: ''
-tags:
-- radarr
-- sonarr
-tests: []
+'description': ''
+'name': 'VFQ'
+'pattern': '\b(VQ|VFQ)\b'
+'tags':
+- 'radarr'
+- 'sonarr'
+'tests': []

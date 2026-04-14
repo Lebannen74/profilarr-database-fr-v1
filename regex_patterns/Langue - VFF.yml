@@ -1,0 +1,8 @@
+'description': ''
+'name': 'Langue - VFF'
+'pattern': '\b(VFF|VOF|TRUEFRENCH)\b'
+'tags':
+- 'radarr'
+- 'sonarr'
+- 'Language'
+'tests': []

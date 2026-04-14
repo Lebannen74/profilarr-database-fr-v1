@@ -1,0 +1,6 @@
+'description': ''
+'name': 'Audio - Opus'
+'pattern': '\bOPUS(\b|\d)(?!.*[ ._-](\d{3,4}p))'
+'tags':
+- 'Audio'
+'tests': []

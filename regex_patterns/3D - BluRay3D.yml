@@ -1,0 +1,6 @@
+'description': ''
+'name': '3D - BluRay3D'
+'pattern': '\b(BluRay3D)\b'
+'tags':
+- '3D'
+'tests': []

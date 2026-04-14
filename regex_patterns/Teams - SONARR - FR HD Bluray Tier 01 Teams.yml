@@ -1,0 +1,7 @@
+'description': ''
+'name': 'Teams - SONARR - FR HD Bluray Tier 01 Teams'
+'pattern': '\b(ARK01|BONBON|FRATERNiTY|FTMVHD|HeavyWeight|Psaro)\b'
+'tags':
+- 'sonarr'
+- 'Teams'
+'tests': []

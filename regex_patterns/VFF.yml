@@ -1,7 +1,7 @@
-name: VFF
-pattern: \b(VFF|VOF|TRUEFRENCH)\b
-description: ''
-tags:
-- radarr
-- sonarr
-tests: []
+'description': ''
+'name': 'VFF'
+'pattern': '\b(VFF|VOF|TRUEFRENCH)\b'
+'tags':
+- 'radarr'
+- 'sonarr'
+'tests': []

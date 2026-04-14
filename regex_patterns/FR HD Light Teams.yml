@@ -1,6 +1,6 @@
-name: FR HD Light Teams
-pattern: \b(PopHD|AW|GHT|PATOMiEL|QTZ|SANTACRUZ|Xantar|RiFiFi|PiXEL|Winks|mHDgz)\b
-description: ''
-tags:
-- radarr
-tests: []
+'description': ''
+'name': 'FR HD Light Teams'
+'pattern': '\b(PopHD|AW|GHT|PATOMiEL|QTZ|SANTACRUZ|Xantar|RiFiFi|PiXEL|Winks|mHDgz)\b'
+'tags':
+- 'radarr'
+'tests': []

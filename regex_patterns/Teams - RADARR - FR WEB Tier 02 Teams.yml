@@ -1,0 +1,7 @@
+'description': ''
+'name': 'Teams - RADARR - FR WEB Tier 02 Teams'
+'pattern': '\b(ALLDAYiN|ARK01|FUJiSAN|HANAMi|HeavyWeight|NEO|NoNe|ONLYMOViE|POTO|Slay3R|TkHD|WaCkS|THESYNDiCATE)\b'
+'tags':
+- 'radarr'
+- 'Teams'
+'tests': []

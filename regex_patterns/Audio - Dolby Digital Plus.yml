@@ -1,0 +1,6 @@
+'description': ''
+'name': 'Audio - Dolby Digital Plus'
+'pattern': '\bDD[P+]|\b(e[-_. ]?ac-?3)\b'
+'tags':
+- 'Audio'
+'tests': []

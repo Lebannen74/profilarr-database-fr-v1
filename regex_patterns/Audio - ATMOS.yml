@@ -1,0 +1,6 @@
+'description': ''
+'name': 'Audio - ATMOS'
+'pattern': '\bATMOS(\b|\d)'
+'tags':
+- 'Audio'
+'tests': []

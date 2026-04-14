@@ -1,0 +1,8 @@
+'description': ''
+'name': 'Codec - x265'
+'pattern': '[xh][ ._-]?265|\bHEVC(\b|\d)'
+'tags':
+- 'radarr'
+- 'sonarr'
+- 'Codec'
+'tests': []

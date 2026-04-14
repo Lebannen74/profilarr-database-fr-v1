@@ -1,0 +1,8 @@
+'description': ''
+'name': 'Langue - VFQ'
+'pattern': '\b(VQ|VFQ)\b'
+'tags':
+- 'radarr'
+- 'sonarr'
+- 'Language'
+'tests': []

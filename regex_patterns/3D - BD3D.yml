@@ -1,0 +1,6 @@
+'description': ''
+'name': '3D - BD3D'
+'pattern': '\b(BD3D)\b'
+'tags':
+- '3D'
+'tests': []

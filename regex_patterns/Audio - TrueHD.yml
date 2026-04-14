@@ -1,0 +1,6 @@
+'description': ''
+'name': 'Audio - TrueHD'
+'pattern': 'True[ .-]?HD'
+'tags':
+- 'Audio'
+'tests': []
